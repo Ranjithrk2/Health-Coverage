@@ -31,12 +31,15 @@ function App() {
             <p>Your guide to secure health</p>
           </div>
         </div>
-        <div className="theme-toggle">
-          <label className="switch">
-            <input type="checkbox" checked={isDark} onChange={toggleTheme} />
-            <span className="slider"></span>
-          </label>
-        </div>
+       <div className="theme-toggle">
+  <span className="theme-icon">🌞</span>
+  <label className="switch">
+    <input type="checkbox" checked={isDark} onChange={toggleTheme} />
+    <span className="slider round"></span>
+  </label>
+  <span className="theme-icon">🌙</span>
+</div>
+
       </header>
 
       <section className="info-section">
