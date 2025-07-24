@@ -111,7 +111,6 @@ function App() {
       {previousUserName && (
         <div className="api-post-box">
           <h3>📝 Previous User: {previousUserName}</h3>
-          <p>Filled out the form before you.</p>
         </div>
       )}
 
