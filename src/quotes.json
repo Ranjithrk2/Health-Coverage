@@ -1,0 +1,802 @@
+[
+  {
+    "text": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "text": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius"
+  },
+  {
+    "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
+    "author": "Confucius"
+  },
+  {
+    "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
+    "author": "C.S. Lewis"
+  },
+  {
+    "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "Keep your face always toward the sunshine\u2014and shadows will fall behind you.",
+    "author": "Walt Whitman"
+  },
+  {
+    "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt"
+  },
+  {
+    "text": "You are never too old to set another goal or to dream a new dream.",
+    "author": "C.S. Lewis"
+  },
+  {
+    "text": "Try to be a rainbow in someone\u2019s cloud.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Great things never come from comfort zones.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Your only limit is your mind.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "The harder you work for something, the greater you\u2019ll feel when you achieve it.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Your only limit is your mind.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Your only limit is your mind.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Your only limit is your mind.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Keep going. Everything you need will come to you at the perfect time.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Great things never come from comfort zones.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Your only limit is your mind.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "The harder you work for something, the greater you\u2019ll feel when you achieve it.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Keep going. Everything you need will come to you at the perfect time.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Great things never come from comfort zones.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Your only limit is your mind.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Keep going. Everything you need will come to you at the perfect time.",
+    "author": "Rumi"
+  },
+  {
+    "text": "The harder you work for something, the greater you\u2019ll feel when you achieve it.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Great things never come from comfort zones.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "The harder you work for something, the greater you\u2019ll feel when you achieve it.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Your only limit is your mind.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "The harder you work for something, the greater you\u2019ll feel when you achieve it.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Keep going. Everything you need will come to you at the perfect time.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "The harder you work for something, the greater you\u2019ll feel when you achieve it.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Great things never come from comfort zones.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Great things never come from comfort zones.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Don\u2019t watch the clock; do what it does. Keep going.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Your only limit is your mind.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Keep going. Everything you need will come to you at the perfect time.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Great things never come from comfort zones.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "The harder you work for something, the greater you\u2019ll feel when you achieve it.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Great things never come from comfort zones.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Great things never come from comfort zones.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Your only limit is your mind.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Your only limit is your mind.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "The harder you work for something, the greater you\u2019ll feel when you achieve it.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "The harder you work for something, the greater you\u2019ll feel when you achieve it.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Great things never come from comfort zones.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Rumi"
+  },
+  {
+    "text": "The harder you work for something, the greater you\u2019ll feel when you achieve it.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Great things never come from comfort zones.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Push yourself, because no one else is going to do it for you.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Keep going. Everything you need will come to you at the perfect time.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Keep going. Everything you need will come to you at the perfect time.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Your only limit is your mind.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Push yourself, because no one else is going to do it for you.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "The harder you work for something, the greater you\u2019ll feel when you achieve it.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Don\u2019t watch the clock; do what it does. Keep going.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Keep going. Everything you need will come to you at the perfect time.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Great things never come from comfort zones.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Push yourself, because no one else is going to do it for you.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Keep going. Everything you need will come to you at the perfect time.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Keep going. Everything you need will come to you at the perfect time.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "The harder you work for something, the greater you\u2019ll feel when you achieve it.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Great things never come from comfort zones.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Keep going. Everything you need will come to you at the perfect time.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Your only limit is your mind.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Push yourself, because no one else is going to do it for you.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Don\u2019t watch the clock; do what it does. Keep going.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Your only limit is your mind.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Don\u2019t watch the clock; do what it does. Keep going.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Great things never come from comfort zones.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Push yourself, because no one else is going to do it for you.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Don\u2019t watch the clock; do what it does. Keep going.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Keep going. Everything you need will come to you at the perfect time.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Great things never come from comfort zones.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Keep going. Everything you need will come to you at the perfect time.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Push yourself, because no one else is going to do it for you.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Don\u2019t watch the clock; do what it does. Keep going.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "The harder you work for something, the greater you\u2019ll feel when you achieve it.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Push yourself, because no one else is going to do it for you.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Your only limit is your mind.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Don\u2019t watch the clock; do what it does. Keep going.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Your only limit is your mind.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Don\u2019t watch the clock; do what it does. Keep going.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Keep going. Everything you need will come to you at the perfect time.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Great things never come from comfort zones.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Great things never come from comfort zones.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Push yourself, because no one else is going to do it for you.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Keep going. Everything you need will come to you at the perfect time.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Don\u2019t watch the clock; do what it does. Keep going.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Your only limit is your mind.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "The harder you work for something, the greater you\u2019ll feel when you achieve it.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Push yourself, because no one else is going to do it for you.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Don\u2019t watch the clock; do what it does. Keep going.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Don\u2019t watch the clock; do what it does. Keep going.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Your only limit is your mind.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Helen Keller"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Don\u2019t watch the clock; do what it does. Keep going.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Keep going. Everything you need will come to you at the perfect time.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Sometimes later becomes never. Do it now.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Don\u2019t watch the clock; do what it does. Keep going.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "The harder you work for something, the greater you\u2019ll feel when you achieve it.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Difficult roads often lead to beautiful destinations.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Rumi"
+  },
+  {
+    "text": "Dream it. Wish it. Do it.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Keep going. Everything you need will come to you at the perfect time.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Great things never come from comfort zones.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Push yourself, because no one else is going to do it for you.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Keep going. Everything you need will come to you at the perfect time.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "The harder you work for something, the greater you\u2019ll feel when you achieve it.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "The harder you work for something, the greater you\u2019ll feel when you achieve it.",
+    "author": "Rumi"
+  }
+]
